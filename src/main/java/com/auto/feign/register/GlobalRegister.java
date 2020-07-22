@@ -1,7 +1,6 @@
-package register;
+package com.auto.feign.register;
 
-import extend.BeanKeyChangeRegister;
-import feign.Util;
+import com.auto.feign.extend.BeanKeyChangeRegister;
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;

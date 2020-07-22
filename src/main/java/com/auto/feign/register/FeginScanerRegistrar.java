@@ -1,13 +1,12 @@
-package register;
+package com.auto.feign.register;
 
-import annotation.FeginScan;
+import com.auto.feign.annotation.FeginScan;
 import org.springframework.beans.factory.support.BeanDefinitionRegistry;
 import org.springframework.context.ResourceLoaderAware;
 import org.springframework.context.annotation.ImportBeanDefinitionRegistrar;
 import org.springframework.core.annotation.AnnotationAttributes;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.core.type.AnnotationMetadata;
-import register.FeginClassPathBeanDefinitionScanner;
 
 /**
  * @author 35716 <a href="xiaopeng.miao@1hai.cn">Contact me.</a>

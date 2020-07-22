@@ -1,4 +1,4 @@
-package annotation;
+package com.auto.feign.annotation;
 
 import java.lang.annotation.*;
 

@@ -1,6 +1,6 @@
-package spring;
+package com.auto.feign.spring;
 
-import contract.ContractFeign;
+import com.auto.feign.contract.ContractFeign;
 import feign.Feign;
 import feign.jackson.JacksonEncoder;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

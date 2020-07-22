@@ -1,4 +1,4 @@
-package spring;
+package com.auto.feign.spring;
 
 import feign.Feign;
 import org.springframework.beans.factory.FactoryBean;

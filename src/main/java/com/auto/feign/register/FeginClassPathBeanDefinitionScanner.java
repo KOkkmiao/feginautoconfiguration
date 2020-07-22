@@ -1,6 +1,6 @@
-package register;
+package com.auto.feign.register;
 
-import spring.FeginFactoryBean;
+import com.auto.feign.spring.FeginFactoryBean;
 import org.springframework.beans.factory.annotation.AnnotatedBeanDefinition;
 import org.springframework.beans.factory.config.BeanDefinitionHolder;
 import org.springframework.beans.factory.support.BeanDefinitionRegistry;

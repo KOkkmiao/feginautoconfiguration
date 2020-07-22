@@ -1,7 +1,7 @@
-package annotation;
+package com.auto.feign.annotation;
 
 import org.springframework.context.annotation.Import;
-import register.FeginScanerRegistrar;
+import com.auto.feign.register.FeginScanerRegistrar;
 
 import java.lang.annotation.*;
 

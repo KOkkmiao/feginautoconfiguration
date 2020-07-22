@@ -1,4 +1,4 @@
-package extend;
+package com.auto.feign.extend;
 
 
 
